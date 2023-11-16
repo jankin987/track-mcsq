@@ -11,5 +11,5 @@ TqDiMP proposed in this paper is a tracker for tracking the tiny target. Our inv
 
 
 ## About
-The  TqDiMPRQ has been uploaded to [Baidu Drive](https://pan.baidu.com/s/1oSAumAkVgYuwxtmHG1V2zw?pwd=1234 ). The code has been tested on Ubuntu 18.04, Python 3.8, Pytorch 1.4, cudatoolkit==10.0. Other questions please contact [jankin](jankin.mao@whu.edu.cn). The code is implemented based on [pytracking](https://github.com/visionml/pytracking). We would like to express our sincere thanks to the contributors.
+The  TqDiMPRQ has been uploaded to [Baidu Drive](https://pan.baidu.com/s/1oSAumAkVgYuwxtmHG1V2zw?pwd=1234 ). The code has been tested on Ubuntu 18.04, Python 3.8, Pytorch 1.4, cudatoolkit==10.0. Other questions please contact jankin.mao@whu.edu.cn. The code is implemented based on [pytracking](https://github.com/visionml/pytracking). We would like to express our sincere thanks to the contributors.
 
